@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "126950826281",
+    "project_id": "assessment2-1bc30",
+    "storage_bucket": "assessment2-1bc30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126950826281:android:44aa5832c04c8b28f1d738",
+        "android_client_info": {
+          "package_name": "com.example.myapplication2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvunhTcYU6hEzVw8NNJs2amzk299i7ek0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
